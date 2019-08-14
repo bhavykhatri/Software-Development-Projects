@@ -1,5 +1,6 @@
 ___
-- Run the app using ./app.sh command.
+- Run the app using `./app.sh` command.
+- Web scraping is done through cricinfo website where players name, team and odi average were scraped. Scraped data is stored in `player_stats_scraped.txt` file
 
 ----
 App contains the following functionality
