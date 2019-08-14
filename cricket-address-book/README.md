@@ -11,3 +11,8 @@ App contains the following functionality
   - Displaying all relevant records
 3. Removing Data
   - After search returns a record, you get an  option to remove it
+----
+
+### Demo
+
+  ![Address Book Demo](demo/demo.gif)

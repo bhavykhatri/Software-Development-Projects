@@ -1,5 +1,5 @@
 Sachin, India, 66
-Dhoni, India, 54
 Pathan, India, 66
 Gautum, India, 77
 virat kohli, India, 66
+Yusuf Pathan, India, 55
