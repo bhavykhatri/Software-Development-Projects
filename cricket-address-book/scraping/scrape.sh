@@ -29,3 +29,4 @@ for file in $file_ls;do
   rm player.html
 done
 cat $stats
+cat $stats>>../db.txt

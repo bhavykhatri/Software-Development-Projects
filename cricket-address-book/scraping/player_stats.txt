@@ -6,7 +6,7 @@ Virat Kohli, India, 53.76
 MS Dhoni, India, 38.09
 Shikhar Dhawan, India, 40.61
 Manish Pandey, India, 36.66
-Kedar Jadhav, India, 42.33
+Kedar Jadhav, India, 42.96
 Dinesh Karthik, India, 25.00
 Bhuvneshwar Kumar, India, 22.08
 Siddarth Kaul, India, 0.50
@@ -15,14 +15,14 @@ Rohit Sharma, India, 39.62
 Umesh Yadav, India, 10.88
 KL Rahul, India, 35.27
 Yuzvendra Chahal, India, 7.80
-Deepak Chahar, India, 12
+Deepak Chahar, India, 12.00
 Krunal Pandya, India, 25.50
 Vijay Shankar, India, 31.85
 Mohammed Shami, India, 11.10
 Kuldeep Yadav, India, 8.50
 Hardik Pandya, India, 31.29
 Jasprit Bumrah, India, 1.55
-Shreyas Iyer, India, 46.83
+Shreyas Iyer, India, 49.42
 Navdeep Saini, India, -
 Washington Sundar, India, -
 Rishabh Pant, India, 49.71
