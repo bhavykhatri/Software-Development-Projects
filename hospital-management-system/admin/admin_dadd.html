@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
+
+</style>
+</head>
+<body>
+<ul>
+  <li><a  href="admin_srecord.html">Search Record</a></li>
+  <li><a  href="admin_padd.html">Add Patient</a></li>
+  <li><a class="active" href="admin_dadd.html">Add Doctor</a></li>
+  <li><a href="delete_user.html">Delete User</a></li>
+</ul>
+
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
+  <p color = 'black'>Role: Admin </p>
+  <br>
+  <form action="admin_dadd.php" method="post">
+  Add as:  <input type="radio" name="role" value="doctor" checked> Doctor <br>
+  Name: <br> <input type="text" name="name" value = "Trehan"><br>
+  Specialisation:<br>  <input type="text" name="spl" value  = "cardio"><br>
+  Salary:<br>  <input type="number" name="salary" value =  10000><br>
+  Password: <br> <input type="password" name="pass" value = 1234568><br>
+  <input type="submit" value = "Add Record">
+  </form>
+</div>
+
+</body>
+</html>
