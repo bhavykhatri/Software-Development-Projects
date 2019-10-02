@@ -21,7 +21,7 @@ create table if not exists patient(
   did int,
   payment int
   ) engine = innodb;
-```
+
 
 `create user 'admin'@'localhost' identified by '12345678';`
 
