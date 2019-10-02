@@ -114,3 +114,7 @@ Designing a dbms is a complex and hard process which involve following steps
   - For asking queries on the database mysql is used, the result is then processed using php. PHP also used to receive and send the request back to client. Client sends the request to server using forms.
   - Workflow for login page is as follows: First it receives the request(get/post) from client which has all the form variables store i.e. role, username and password. Based on the username it search for the username and password match in the database and if it matches then it sends it to the logged in page based on the role. The user’s information is stored in session variables.
   - For other pages workflow is similar, first php will make a conection with sql based on username and password which were received by post request and then accesses are granted based on the role. After that query can be asked to database using that connection.
+
+
+## Demo
+![Hospital Management Demo](app.gif)
